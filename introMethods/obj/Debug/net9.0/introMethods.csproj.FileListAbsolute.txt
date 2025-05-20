@@ -1,0 +1,14 @@
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\bin\Debug\net9.0\introMethods.exe
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\bin\Debug\net9.0\introMethods.deps.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\bin\Debug\net9.0\introMethods.runtimeconfig.json
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\bin\Debug\net9.0\introMethods.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\bin\Debug\net9.0\introMethods.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.AssemblyInfoInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.AssemblyInfo.cs
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\refint\introMethods.dll
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.pdb
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\introMethods.genruntimeconfig.cache
+C:\Users\Mostafa\Desktop\prjs\C# prjs\introMethods-Funcs\introMethods\obj\Debug\net9.0\ref\introMethods.dll
